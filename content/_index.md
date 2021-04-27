@@ -3,6 +3,6 @@ hero:
   heading: blog.bitdiamond
   maxWidthPX: "652"
 seo:
-  image: ''
+  image: "/images/hero-2.jpg"
 
 ---
