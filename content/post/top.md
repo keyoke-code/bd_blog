@@ -8,3 +8,4 @@ hero: ''
 draft: true
 
 ---
+Go
