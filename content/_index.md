@@ -1,7 +1,7 @@
 ---
 hero:
   heading: Bitcoin 2.0 on Binance Smart Chain
-  maxWidthPX: "800"
+  maxWidthPX: "1200"
 seo:
   image: "/images/hero-2.jpg"
 
