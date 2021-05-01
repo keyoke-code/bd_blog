@@ -2,7 +2,7 @@
 timeToRead: 1
 authors: []
 title: Imagine you had a time machine . . .
-excerpt: OK
+excerpt: How much for two pizzas?!
 date: 2021-04-26T12:00:00.000+00:00
 hero: "/images/timemachine.jpeg"
 
