@@ -1,5 +1,5 @@
 ---
-timeToRead: 1
+timeToRead: 3
 authors: []
 title: Imagine you had a time machine . . .
 excerpt: How much for two pizzas?!
