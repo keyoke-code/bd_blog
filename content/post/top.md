@@ -9,9 +9,9 @@ hero: "/images/timemachine.jpeg"
 ---
 What would you do? There are a lot of good options. You could save lives, change the course of history, set right past wrongs. Save the world, from something at least.
 
-Now imagine that, by some quirk of fate or short-sighted design, this time machine can ONLY take you back to 2010. To be more precise, to May 22 2010. 
+Now imagine that, by some quirk of fate or short-sighted design, this time machine can ONLY take you back to 2010. To be more precise, to May 22 2010.
 
-This time machine is sounding less and less useful all the time. But wait, not only is it stuck on May 22 2010, but it seems determined to take you to a Papa John's pizza in Florida. . .
+This time machine is sounding less and less useful all the time. But wait, not only is it stuck on May 22 2010, but it seems determined to take you to a Papa John's pizzeria in Florida. . .
 
 ### OG Bitcoin IRL Transaction
 
