@@ -4,7 +4,7 @@ authors: []
 title: 'Staying SAFU #1'
 excerpt: Looking at contract auto-scanners
 date: 2021-05-03T12:00:00+00:00
-hero: "/images/safu.png"
+hero: "/images/safu-2.png"
 
 ---
 This is the first post in our 'Staying SAFU' series. In this series we will be looking at all the ways you can increase the safety of your crypto purchases. We will be focussing on ERC20 and BEP20 tokens (so tokens on Ethereum and Binance Smart Chain). We'll cover what steps you can take before making a token purchase to decrease your chances of being scammed.
