@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/staying-safu-1.md
 - content/post/top.md
