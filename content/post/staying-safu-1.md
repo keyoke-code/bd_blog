@@ -10,7 +10,7 @@ draft: true
 ---
 This is the first post in our 'Staying SAFU' series. In this series we will be looking at all the ways you can increase the safety of your crypto purchases. We will be focussing on ERC20 and BEP20 tokens (so tokens on Ethereum and Binance Smart Chain). We'll cover what steps you can take before making a token purchase to decrease your chances of being scammed.
 
-### Contract autoscanners
+## Contract autoscanners
 
 First up we are going to look at contract auto-scanners. These services aim to do an automatic assessment of a contract's solidity source code and tell you whether there is anything in there to be worried about. An example is [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") . The idea is that you paste in the source code and the scanner tells you whether this is a rug or not.
 
@@ -74,4 +74,50 @@ This is a huge worry, and shows why a simple autoscan like this makes crypto mor
 
 What about the other side of the equation, the good projects that these scanners label as rugs? Let's look at some of those.
 
-Poocoin
+### Poocoin
+
+Most of us will know poocoin, a recent gem of BSC. Does [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") this this is a rugpull?
+
+[https://bscscan.com/address/0xb27adaffb9fea1801459a1a81b17218288c097cc#code](https://bscscan.com/address/0xb27adaffb9fea1801459a1a81b17218288c097cc#code "https://bscscan.com/address/0xb27adaffb9fea1801459a1a81b17218288c097cc#code")
+
+![](/images/poocoin.png)
+
+Yup. It's so certain, it's 'definitely' a rug. OMG.
+
+### BitDiamond
+
+And yes, what about our own token. What does the scanner say?
+
+[https://bscscan.com/address/0x669288ada63ed65eb3770f1c9eeb8956dedaaa47#code](https://bscscan.com/address/0x669288ada63ed65eb3770f1c9eeb8956dedaaa47#code "https://bscscan.com/address/0x669288ada63ed65eb3770f1c9eeb8956dedaaa47#code")
+
+![](/images/bitdiamond.png)
+
+It reckons it is.
+
+So what is the scanner looking at here? It's worryingly oversimplfied. It has a problem with this function in both poocoin and BitDiamond:
+
+> function _transfer(address sender, address recipient, uint256 amount) private { 
+>
+>         require(sender != address(0), "BEP20: transfer from the 0 address");
+>
+>         require(recipient != address(0), "BEP20: transfer to the 0 address");
+>
+>         require(amount > 0, "Transfer amount must be greater than 0");
+>
+>         if(sender != owner() && recipient != owner())
+>
+>             require(amount <= _max_txn_size, "Transfer amount exceeds 210,000");
+
+This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whales ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address). 
+
+Why? Because otherwise it would take 100 transactions to load all the tokens into liquidity (100 x 1%) which would take ages and cost a lot of gas. Also when new exchanges are added (whitebit, kucoin, binance etc), they need a supply of tokens. That's likely to be more than 1% of supply, so the contract owner needs to be able to send more than 1% to those exchanges on launch.
+
+Does this feature make it a rug? Not even slightly. 
+
+## Conclusion
+
+Be very very careful of autoscanners. They will tell you that future rugs are safe, and future gems are rugs. **They are, to put it politely, totally useless services, as well as being dangerous in their claims to detect rugs.**
+
+What should you do instead? Only buy tokens that have been audited by a REPUTABLE smart contract auditor. They wouldn't let a simple smart contract exploit through, and they have the experience to read features like the above and realise they add safety rather than take it away.
+
+We'll publish another article on how to interpret contract audits (hint - BitDiamond has one already from one of the best auditors in the business, Quillhash).
