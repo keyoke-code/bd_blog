@@ -15,17 +15,17 @@ First up we are going to look at contract auto-scanners. These services aim to d
 
 So, do these services work? We've had a lot of discussion on the team. We like to see new developments that aim to make crypto safer. But, in this instance, we think **these services as they currently are make crypto a lot more dangerous**. They claim to give an idea of whether a contract is a rug or not, but the reality is they miss most rugs, and incorrectly label legitimate tokens as scams. Most rugs have nothing to do with the smart contract at all. In later editions of this series we'll cover off what happens in most rugs, and it isn't a smart contract exploit. And at the moment these scanners are flagging code statements as 'risky' that are not at all. The result is that people miss out on good projects and still wander into the hands of the scammers.
 
-Our staying SAF verdict: Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict. And you can't!
+Our "staying SAFU" verdict: Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict. And you can't!
 
 ## Putting it to the test - the rugs
 
 So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed token rugpulls as reported by certic:
 
-### Spartan Protocol 
+### Spartan Protocol
 
 [https://bscscan.com/address/0xe4ae305ebe1abe663f261bc00534067c80ad677c#code](https://bscscan.com/address/0xe4ae305ebe1abe663f261bc00534067c80ad677c#code "https://bscscan.com/address/0xe4ae305ebe1abe663f261bc00534067c80ad677c#code")
 
-This was confirmed as a scam by certik on 2 May 2021. 
+This was confirmed as a scam by certik on 2 May 2021.
 
 ![](/images/spartan.png)
 
@@ -41,7 +41,7 @@ It got that one. But moonhere was an exit scam according to certik, which means 
 
 ### SexyAPY
 
-[https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code](https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code "https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code") 
+[https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code](https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code "https://bscscan.com/address/0xda2ace303531079568e471bb5962d9c7892e2619#code")
 
 ![](/images/sexyapy.png)
 
@@ -95,23 +95,23 @@ It reckons it is.
 
 So what is the scanner looking at here? It's worryingly oversimplfied. It has a problem with this function in both poocoin and BitDiamond:
 
-> function _transfer(address sender, address recipient, uint256 amount) private { 
+> function _transfer(address sender, address recipient, uint256 amount) private {
 >
 >         require(sender != address(0), "BEP20: transfer from the 0 address");
->
+>     
 >         require(recipient != address(0), "BEP20: transfer to the 0 address");
->
+>     
 >         require(amount > 0, "Transfer amount must be greater than 0");
->
+>     
 >         if(sender != owner() && recipient != owner())
->
+>     
 >             require(amount <= _max_txn_size, "Transfer amount exceeds 210,000");
 
-This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whales ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address). 
+This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whales ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address).
 
 Why? Because otherwise it would take 100 transactions to load all the tokens into liquidity (100 x 1%) which would take ages and cost a lot of gas. Also when new exchanges are added (whitebit, kucoin, binance etc), they need a supply of tokens. That's likely to be more than 1% of supply, so the contract owner needs to be able to send more than 1% to those exchanges on launch.
 
-Does this feature make it a rug? Not even slightly. 
+Does this feature make it a rug? Not even slightly.
 
 ## Conclusion
 
