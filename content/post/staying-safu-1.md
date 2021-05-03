@@ -95,12 +95,12 @@ It reckons it is.
 
 So what is the scanner looking at here? It's worryingly oversimplfied. It has a problem with this function in both poocoin and BitDiamond:
 
-    function _transfer(address sender, address recipient, uint256 amount) private { 
-            require(sender != address(0), "BEP20: transfer from the 0 address");
-            require(recipient != address(0), "BEP20: transfer to the 0 address");
-            require(amount > 0, "Transfer amount must be greater than 0");
-            if(sender != owner() && recipient != owner())
-                require(amount <= _max_txn_size, "Transfer amount exceeds 210,000");
+function _transfer(address sender, address recipient, uint256 amount) private { 
+   require(sender != address(0), "BEP20: transfer from the 0 address");
+   require(recipient != address(0), "BEP20: transfer to the 0 address");
+   require(amount > 0, "Transfer amount must be greater than 0");
+   if(sender != owner() && recipient != owner())
+     require(amount <= _max_txn_size, "Transfer amount exceeds 210,000");
 
 This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whale's ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address).
 
