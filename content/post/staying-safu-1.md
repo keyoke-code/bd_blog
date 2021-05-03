@@ -16,7 +16,7 @@ First up we are going to look at contract auto-scanners. These services aim to d
 
 So, do these services work? We've had a lot of discussion on the team. We like to see new developments that aim to make crypto safer. But, in this instance, we think **these services as they currently are make crypto a lot more dangerous**. They claim to give an idea of whether a contract is a rug or not, but the reality is they miss most rugs, and incorrectly label legitimate tokens as scams. Most rugs have nothing to do with the smart contract at all. In later editions of this series we'll cover off what happens in most rugs, and it isn't a smart contract exploit. And at the moment these scanners are flagging code statements as 'risky' that are not at all. The result is that people miss out on good projects and still wander into the hands of the scammers.
 
-Our staying SAF verdict: <span class="iconify" data-icon="ic:baseline-dangerous" data-inline="false"></span> Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict. And you can't!
+Our staying SAF verdict: Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict. And you can't!
 
 ## Putting it to the test - the rugs
 
