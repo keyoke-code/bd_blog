@@ -14,13 +14,13 @@ This is the first post in our 'Staying SAFU' series. In this series we will be l
 
 First up we are going to look at contract auto-scanners. These services aim to do an automatic assessment of a contract's solidity source code and tell you whether there is anything in there to be worried about. An example is [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") . The idea is that you paste in the source code and the scanner tells you whether this is a rug or not.
 
-So, do these services work? We've had a lot of discussion on the team. We like to see new developments that aim to make crypto safer. But, in this instance, we think these services as they currently are make crypto a lot more dangerous. They claim to give an idea of whether a contract is a rug or not, but the reality is they miss most rugs, and incorrectly label legitimate tokens as scams. The thing is, most rugs have nothing to do with the smart contract at all. In later editions of this series we'll cover off what happens in most rugs, and it isn't a smart contract exploit. And at the moment these scanners are flagging code statements as 'risky' that are not at all. The result is that people miss out on good projects and still wander into the hands of the scammers.
+So, do these services work? We've had a lot of discussion on the team. We like to see new developments that aim to make crypto safer. But, in this instance, we think **these services as they currently are make crypto a lot more dangerous**. They claim to give an idea of whether a contract is a rug or not, but the reality is they miss most rugs, and incorrectly label legitimate tokens as scams. Most rugs have nothing to do with the smart contract at all. In later editions of this series we'll cover off what happens in most rugs, and it isn't a smart contract exploit. And at the moment these scanners are flagging code statements as 'risky' that are not at all. The result is that people miss out on good projects and still wander into the hands of the scammers.
 
-Our staying SAF verdict: <span class="iconify" data-icon="ic:baseline-dangerous" data-inline="false"></span> Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict.
+Our staying SAF verdict: <span class="iconify" data-icon="ic:baseline-dangerous" data-inline="false"></span> Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict. And you can't!
 
 ## Putting it to the test - the rugs
 
-So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed rugpulls as reported by certic:
+So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed token rugpulls as reported by certic:
 
 ### Spartan Protocol 
 
@@ -72,7 +72,7 @@ This is a huge worry, and shows why a simple autoscan like this makes crypto mor
 
 ## Putting it to the test - the gems
 
-What about the other side of the equation, the good projects that these scanners label as rugs? Let's look at some of those.
+What about the other side of the equation, the good projects that these scanners label as rugs? Let's look at those.
 
 ### Poocoin
 
@@ -121,3 +121,5 @@ Be very very careful of autoscanners. They will tell you that future rugs are sa
 What should you do instead? Only buy tokens that have been audited by a REPUTABLE smart contract auditor. They wouldn't let a simple smart contract exploit through, and they have the experience to read features like the above and realise they add safety rather than take it away.
 
 We'll publish another article on how to interpret contract audits (hint - BitDiamond has one already from one of the best auditors in the business, Quillhash).
+
+In the meantime, stay SAFU.
