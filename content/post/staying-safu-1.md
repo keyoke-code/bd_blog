@@ -19,7 +19,7 @@ Our "staying SAFU" verdict: Does not make crypto safer, on balance if anything m
 
 ## Putting it to the test - the rugs
 
-So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed token rugpulls as reported by certic:
+So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed token rugpulls as reported by certik:
 
 ### Spartan Protocol
 
