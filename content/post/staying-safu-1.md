@@ -107,7 +107,7 @@ So what is the scanner looking at here? It's worryingly oversimplfied. It has a 
 >     
 >             require(amount <= _max_txn_size, "Transfer amount exceeds 210,000");
 
-This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whales ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address).
+This is the anti-whale feature that limits each transaction to 1% of supply. This stops snipe bots getting a huge share on launch, and also limits a whale's ability to pump and dump. It's a good innovation. BUT, it has to exclude the contract owner (which means it needs to compare to a non-zero address).
 
 Why? Because otherwise it would take 100 transactions to load all the tokens into liquidity (100 x 1%) which would take ages and cost a lot of gas. Also when new exchanges are added (whitebit, kucoin, binance etc), they need a supply of tokens. That's likely to be more than 1% of supply, so the contract owner needs to be able to send more than 1% to those exchanges on launch.
 
