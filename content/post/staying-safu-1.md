@@ -18,7 +18,7 @@ So, do these services work? We've had a lot of discussion on the team. We like t
 
 Our staying SAF verdict: <span class="iconify" data-icon="ic:baseline-dangerous" data-inline="false"></span> Does not make crypto safer, on balance if anything makes it more dangerous, as people feel they can rely on it's verdict.
 
-## Putting it to the test
+## Putting it to the test - the rugs
 
 So lets put one of these scanners to the test and see how useful it is. We'll take [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") as an example. Let's see how well rugscreen would have protected us from the last five confirmed rugpulls as reported by certic:
 
@@ -59,3 +59,19 @@ Missed again.
 ### Ghostmixer
 
 [https://bscscan.com/address/0x68f15dfb746f9453441afc68002dca183833bb17#code](https://bscscan.com/address/0x68f15dfb746f9453441afc68002dca183833bb17#code "https://bscscan.com/address/0x68f15dfb746f9453441afc68002dca183833bb17#code")
+
+![](/images/ghostmixer.png)
+
+Didn't catch this rugpull either.
+
+### Rugpull scan results
+
+So, of the five most recent token rugpulls [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") said categorically for that FOUR of them were 'Not A Rug'. And for the one it detected it didn't even get the reason for the rug right (I mean, it can't know if a team is going to exit scam).
+
+This is a huge worry, and shows why a simple autoscan like this makes crypto more dangerous, not less.
+
+## Putting it to the test - the gems
+
+What about the other side of the equation, the good projects that these scanners label as rugs? Let's look at some of those.
+
+Poocoin
