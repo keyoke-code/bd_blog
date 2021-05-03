@@ -65,7 +65,7 @@ Didn't catch this rugpull either.
 
 ### Rugpull scan results
 
-So, of the five most recent token rugpulls [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") said categorically for that FOUR of them were 'Not A Rug'. And for the one it detected it didn't even get the reason for the rug right (I mean, it can't know if a team is going to exit scam).
+So, of the five most recent token rugpulls [https://rugscreen.com/](https://rugscreen.com/ "https://rugscreen.com/") said categorically that FOUR of them were 'Not A Rug'. And for the one it detected it didn't even get the reason for the rug right (I mean, it can't know if a team is going to exit scam).
 
 This is a huge worry, and shows why a simple autoscan like this makes crypto more dangerous, not less.
 
