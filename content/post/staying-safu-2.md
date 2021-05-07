@@ -45,7 +45,7 @@ We chose three separate locks for BitDiamond's liquidity:
 
 Yes, yes and **yes** again! Thinking about a new token? If it's liquidity is not locked then I suggest you don't buy (not financial advice). This comes down to one of the tenets of crypto: don't trust, _verify_. The team is saying they won't rugpull? You don't need to trust that, but you should verify that they **can't** rugpull by doing a liquidity swipe.
 
-So how do you do this? Quality projects put this front a centre and provide you with a link to the locked liquidity (like on the btdmd.com website). If not, ask for the proof of locked liquidity. And then follow that link and check that most (a percentage in the high 90s) is locked up. Also check for **how long**. I would say you want half to be locked up for a year. Some liquidity unlocking earlier is fine (for example to match an exchange strategy). But liquidity locked for only a month or two would be a red flag for me.
+So how do you do this? Quality projects put this front and centre and provide you with a link to the locked liquidity (like on the btdmd.com website). If not, ask for the proof of locked liquidity. And then follow that link and check that most (a percentage in the high 90s) is locked up. Also check for **how long**. I would say you want half to be locked up for a year. Some liquidity unlocking earlier is fine (for example to match an exchange strategy). But liquidity locked for only a month or two would be a red flag for me.
 
 At the same time check out the credentials of the liquidity locking service. This will change as more providers join the industry, but a quick search around telegram should give you some idea of which providers are high quality.
 
