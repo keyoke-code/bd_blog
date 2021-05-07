@@ -5,7 +5,6 @@ title: 'Staying SAFU #2'
 excerpt: 'What is locked liquidity? '
 date: 2021-05-05T12:00:00+00:00
 hero: "/images/safu-2.png"
-draft: true
 
 ---
 In today's 'Staying SAFU' we are talking about liquidity locking! Having locked liquidity with a new token is **more** than important, it's **VITAL**! But what is locked liquidity? In fact, what's liquidity? Let's dive in and find out!
