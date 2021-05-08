@@ -12,11 +12,11 @@ Every week we'll wrap up the latest news and developments in BitDiamond, and als
 
 ## BitDiamond is one week old!
 
-That's right, one whole week! If you are reading this just after it's posted then congratulations, you are very early, and have a front row seat at the dawn of a new crypto token.
+That's right, one whole week! If you are reading this as it's posted then congratulations, you are very early, and have a front row seat at the dawn of a new crypto token.
 
 ## Highlights of the Week
 
-The big news for the week is that BitDiamond is live! After all the work we'd put in it was both a celebration and a relief to get the token out there. Our lead up to the launch was very deliberate. We knew we wanted a high quality audit completed before we launched, and we were delighted with our audit partner, Quillhash. Not only did they perform a thorough check of our contract but they worked with us to address the recommendations they made. A high-quality company, and one that we will turn to for future audits and if we need assistance with smart contract dev. In total the process involved two checks of the code. In the first check Quillhash made recommendations that we then reviewed, followed by a second review once we had completed making changes. It does add some time to getting the token to market, but it gave us extra confidence about our product, and we know that's important to holders too. Wrapping up the audit was the last step in our pre-launch process, so once that was signed off we launched.
+The big news for the week is that BitDiamond is live! After all the work we'd put in it was both a celebration and a relief to get the token out there. Our lead up to the launch was very deliberate. We knew we wanted a high-quality audit completed before we launched, and we were delighted with our audit partner, Quillhash. Not only did they perform a thorough check of our contract but they worked with us to address the recommendations they made. A high-quality company, and one that we will turn to for future audits and if we need assistance with smart contract dev. In total the process involved two checks of the code. In the first check Quillhash made recommendations that we then reviewed, followed by a second review once we had completed making changes. It does add some time to getting the token to market, but it gave us extra confidence about our product, and we know that's important to holders too. Wrapping up the audit was the last step in our pre-launch process, so once that was signed off we launched.
 
 It's been a really exciting week. We've seen our telegram community grow to over 600 members, and at the time of writing we have almost 200 token holders. That's amazing, and it's been so much fun getting to meet and chat with lots of you on telegram. I'm conscious we've neglected our growing discord community a bit, but don't worry, we have plans there too.
 
@@ -30,7 +30,7 @@ As I write this we are at a fresh ATH of $0.008. That's amazing! We are so close
 
 ## Marketing News
 
-In marketing we have started our first gleam promotion. Hopefully you've already got your hands on some digital diamonds, so make sure you get in [the drawer to win an actual diamond](https://gleam.io/5Sj6W/bitdiamond-actual-diamond-giveaway). We've also run two small campaigns with social media marketeers and run some 'bottom ads' on waterfall. To finish the week off today has seen our promotion on the waterfall main channel, a high-profile marketing effort that has seen a good increase in both telegram members and holders of BitDiamond. 
+In marketing we have started our first gleam promotion. Hopefully you've already got your hands on some digital diamonds, so make sure you get in [the drawer to win an actual diamond](https://gleam.io/5Sj6W/bitdiamond-actual-diamond-giveaway). We've also run two small campaigns with social media marketeers and run some 'bottom ads' on waterfall. To finish the week off today has seen our promotion on the waterfall main channel, a high-profile marketing effort that has seen a good increase in both telegram members and holders of BitDiamond.
 
 There is more marketing coming, in particular we are in discussions with some key influencers. We'll keep you updated.
 
@@ -44,8 +44,12 @@ We have the opening of the merch store to come in May, and hopefully some news r
 
 ## Blog plans
 
-On the blog we will be expanding our 'Staying SAFU' series, where we will cover off topics like how to read a smart contract security audit, what to look for in doxed teams, and why going x100 isn't always as good as it seems. . . 
+On the blog we will be expanding our 'Staying SAFU' series, where we will cover off topics like how to read a smart contract security audit, what to look for in doxed teams, and why going x100 isn't always as good as it seems. . .
 
-We will also be starting a new series soon called Crypto Basics, where we discuss crypto topics not related to security but which are still very useful. For example, how does pancakeswap work? It's very clever, but probably not as complicated as you thought. 
+We will also be starting a new series soon called Crypto Basics, where we discuss crypto topics not related to security but which are still very useful. For example, how does pancakeswap work? It's very clever, but probably not as complicated as you thought.
 
-To round things off we'd also like to blog about our internal team processes and tools. For example, this blog is on forestry and we use
+To round things off we'd also like to blog about our internal team processes and tools. For example, this blog is on forestry, all content is saved to github with netlify for continuous deployment to the blog subdomain. If that kind of detail floats your boat then stay tuned!
+
+## Closing thoughts
+
+Week one has been a blast, welcome to you all. BitDiamond is going to be something special, and we are so glad to be on this journey with you. Look after each other and HODL those diamonds.
