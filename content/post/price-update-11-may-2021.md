@@ -5,7 +5,6 @@ title: Head to Head with Bitcoin - Update 11 May 2021
 excerpt: Remember our time machine from the first post? So, how are we doing vs bitcoin?
 date: 2021-05-10T12:00:00+00:00
 hero: "/images/price.png"
-draft: true
 
 ---
 If you haven't already, take a read of our [first post, where we invented the world's most limited time machine](https://blog.btdmd.com/post/top/). This gave us the opportunity to travel through time and go head to head with bitcoin. So, how are we doing?
