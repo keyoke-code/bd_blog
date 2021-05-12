@@ -50,4 +50,4 @@ And, of course, there is some complexity around how pancakeswap traverses all th
 
 ## So what?
 
-There's more to this than just idle curiosity. Knowing how prices are derived can really help you pick your investments. For example: are you really impressed with that new token that was loaded with an initial pair valued at $10 that when x100 on the first day? You maybe shouldn't be. . . but that's a topic for our very next 'Staying SAFU', so stay tuned for that!
+There's more to this than just idle curiosity. Knowing how prices are derived can really help you pick your investments. For example: are you really impressed with that new token that was loaded with an initial pair valued at $10 that went x100 on the first day? You maybe shouldn't be. . . but that's a topic for our very next 'Staying SAFU', so stay tuned for that!
