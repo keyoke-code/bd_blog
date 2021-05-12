@@ -29,26 +29,26 @@ AMM's use liquidity pools for trades. In each pool there is an equal value of tw
 
 Our constant product for this pool is therefore 5,000 x 1,000 = 5,000,000
 
-Now, someone comes along and wants to buy some BOB. They want to be a BOB whale, and so want to buy 1,000 BOB. How much will that cost them? Pancakeswap can easily work out the answer. It knows that no matter what happens it needs the constant product to equal 5,000,000. If someone takes out 1, BOB there is only 4,000 left. Our constant product formula therefore looks like this:
+Now, someone comes along and wants to buy some BOB. They want to be a BOB whale, and so want to buy 1,000 BOB. How much will that cost them? Pancakeswap can easily work out the answer. It knows that no matter what happens it needs the constant product to equal 5,000,000. If someone takes out 1,000 BOB there is only 4,000 left. Our constant product formula therefore looks like this:
 
 4,000 BOB x ? USDT = 5,000,000. OR: 5,000,000 / 4,000 = 1,250 USDT.
 
 So for this trade to work the pool needs 250 more USDT in order for the constant product to be maintained. So we now know that 1,000 BOB will cost 250 USDT. Or, put another way, this trade will value BOB at $0.25. Great, BOB has mooned by 25%!
 
-The pool now has 4,000 BOB and 1,250 USDT. If people keep buying BOB we will need more and more USDT to be traded in their place in order to maintain the constant product. So say we want to buy 250 more BOB. That reduces the number of BOB to 3,750:
+The pool now has 4,000 BOB and 1,250 USDT. If people keep buying BOB we will need more and more USDT to be traded in its place in order to maintain the constant product. So say we want to buy 250 more BOB. That reduces the number of BOB to 3,750:
 
 3,750 BOB x ? USDT = 5,000,000, OR: 5,000,000 / 3,750 = 1.333.33. 
 
 We had 1,250 USDT in the pool before, so to take out 250 BOB we have to put in 83.30 USDT, so in this trade each BOB costs $0.33. BOB is heading to the moon!
 
-As you can see, as one of the sides of the pairs gets more depleted it's more and more expensive to buy. Scarcity  = value.
+As you can see, as one of the sides of the pair gets more depleted it's more and more expensive to buy. Scarcity = value.
 
 ## Is that really all there is to it?
 
-Almost. All of the AMMs also charge fees, and there is a liquidity provider reward there to, that does add some complexity, but at the heart of these type of AMMs is this simple arithmetic. Cool huh!
+Almost. All of the AMMs also charge fees, and there is a liquidity provider reward to. That does add some complexity, but at the heart of these AMMs is this simple arithmetic. Cool huh!
 
 And, of course, there is some complexity around how pancakeswap traverses all the various pairs to mean you can pretty much swap anything for anything, but that's a topic for another day.
 
 ## So what?
 
-There's more to this than just idle curiosity. Knowing how prices are derived can really help you pick your investments. For exmaple: are you really impressed with that new token that was loaded with an intial pair valued at $10 that when x100 on the first day? You maybe shouldn't be. . . but that's a topic for our very next 'Staying SAFU', so stay tuned for that!
+There's more to this than just idle curiosity. Knowing how prices are derived can really help you pick your investments. For example: are you really impressed with that new token that was loaded with an initial pair valued at $10 that when x100 on the first day? You maybe shouldn't be. . . but that's a topic for our very next 'Staying SAFU', so stay tuned for that!
