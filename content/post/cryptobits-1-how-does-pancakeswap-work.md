@@ -36,7 +36,7 @@ So for this trade to work the pool needs 250 more USDT in order for the constant
 
 The pool now has 4,000 BOB and 1,250 USDT. If people keep buying BOB we will need more and more USDT to be traded in its place in order to maintain the constant product. So say we want to buy 250 more BOB. That reduces the number of BOB to 3,750:
 
-3,750 BOB x ? USDT = 5,000,000, OR: 5,000,000 / 3,750 = 1.333.33.
+3,750 BOB x ? USDT = 5,000,000, OR: 5,000,000 / 3,750 = 1,333.33.
 
 We had 1,250 USDT in the pool before, so to take out 250 BOB we have to put in 83.30 USDT, so in this trade each BOB costs $0.33. BOB is heading to the moon!
 
