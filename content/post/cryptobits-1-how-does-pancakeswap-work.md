@@ -23,8 +23,14 @@ Awesome, your crytpo knowledge has levelled up already!
 
 I'm glad you asked, because this is the point of today's cryptobits. The pricing on an AMM like pancakeswap is remarkably simple! You don't need any complicated maths. It uses something called a **constant product**. 
 
-AMM's use liquidity pools for trades. In each pool there is an equal value of two tokens, called a pair. The **constant product** is calculated as the total number of the first token in the pair mutiplied by the number of second tokens in the pair. This easier with an example, so let's make an imaginary pair between our tokens APPLE and PEAR. The initial load of the liquidity pool sets the relative value of each token. I prefer apples, so let's say that 1,000 APPLE is the same value as 5,000 PEAR. We achieve this valuation by loading the liquidity pool with 1,000 APPLE and 5,000 PEAR.
+AMM's use liquidity pools for trades. In each pool there is an equal value of two tokens, called a pair. The **constant product** is calculated as the total number of the first token in the pair mutiplied by the number of second tokens in the pair. This easier with an example, so let's make an imaginary pair between a fictitious token BOB and USDT. The initial load of the liquidity pool sets the relative value of each token. Let's say that we load in 5,000 BOB and 1,000 USDT. 
 
-1,000 APPLE = 5,000 PEAR
+5,000 BOB = 1,000 USDT (Or in other words, 1 BOB = $0.20)
 
-Our constant product for this pool is therefore 1,000 x 5,000 = 5,000,000
+Our constant product for this pool is therefore 5,000 x 1,000 = 5,000,000
+
+Now, someone comes along and wants to buy some BOB. They want to be a BOB whale, and so want to buy 1,000 BOB. How much will that cost them? Pancakeswap can easily work out the answer. It knows that no matter what happens it needs the constant product to equal 5,000,000. If someone takes out 1, BOB there is only 4,000 left. Our constant product formula therefore looks like this:
+
+4,000 BOB x ? USDT = 5,000,000. OR: 5,000,000 / 4,000 = 1,250 USDT.
+
+So for this trade to work the pool needs 250 more USDT in order for the constant product to be maintained. So we now know that 1,000 BOB will cost 250 USDT. Or, put another way, this trade will value BOB at $0.25. Great, BOB has mooned by 25%!
