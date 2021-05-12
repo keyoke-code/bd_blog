@@ -23,7 +23,7 @@ Awesome, your crytpo knowledge has levelled up already!
 
 I'm glad you asked, because this is the point of today's cryptobits. The pricing on an AMM is remarkably simple! You don't need any complicated maths. It uses something called a **constant product**. 
 
-AMM's use liquidity pools for trades. In each pool there is an equal value of two tokens, called a pair. The **constant product** is calculated as the total number of the first token in the pair mutiplied by the number of second tokens in the pair. This easier with an example, so let's make an imaginary pair between a fictitious token BOB and USDT. The initial load of the liquidity pool sets the relative value of each token. Let's say that we load in 5,000 BOB and 1,000 USDT. 
+AMM's use liquidity pools for trades. In each pool there is an equal value of two tokens, called a pair. The **constant product** is calculated as the total number of the first token in the pair multiplied by the number of the second token in the pair. This is best explained with an example, so let's make an imaginary pair between a fictitious token BOB and USDT. The initial load of the liquidity pool sets the relative value of each token. Let's say that we load in 5,000 BOB and 1,000 USDT. 
 
 5,000 BOB = 1,000 USDT (Or in other words, 1 BOB = $0.20)
 
