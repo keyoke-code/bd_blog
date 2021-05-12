@@ -34,3 +34,9 @@ Now, someone comes along and wants to buy some BOB. They want to be a BOB whale,
 4,000 BOB x ? USDT = 5,000,000. OR: 5,000,000 / 4,000 = 1,250 USDT.
 
 So for this trade to work the pool needs 250 more USDT in order for the constant product to be maintained. So we now know that 1,000 BOB will cost 250 USDT. Or, put another way, this trade will value BOB at $0.25. Great, BOB has mooned by 25%!
+
+The pool now has 4,000 BOB and 1,250 USDT. If people keep buying BOB we will need more and more USDT to be traded in their place in order to maintain the constant product. So say we want to buy 250 more BOB. That reduces the number of BOB to 3,750:
+
+3,750 BOB x ? USDT = 5,000,000, OR: 5,000,000 / 3,750 = 1.333.33. 
+
+We had 1,250 USDT in the pool before, so to  
