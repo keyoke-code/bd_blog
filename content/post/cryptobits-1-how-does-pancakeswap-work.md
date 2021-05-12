@@ -39,4 +39,16 @@ The pool now has 4,000 BOB and 1,250 USDT. If people keep buying BOB we will nee
 
 3,750 BOB x ? USDT = 5,000,000, OR: 5,000,000 / 3,750 = 1.333.33. 
 
-We had 1,250 USDT in the pool before, so to  
+We had 1,250 USDT in the pool before, so to take out 250 BOB we have to put in 83.30 USDT, so in this trade each BOB costs $0.33. BOB is heading to the moon!
+
+As you can see, as one of the sides of the pairs gets more depleted it's more and more expensive to buy. Scarcity  = value.
+
+## Is that really all there is to it?
+
+Almost. All of the AMMs also charge fees, and there is a liquidity provider reward there to, that does add some complexity, but at the heart of these type of AMMs is this simple arithmetic. Cool huh!
+
+And, of course, there is some complexity around how pancakeswap traverses all the various pairs to mean you can pretty much swap anything for anything, but that's a topic for another day.
+
+## So what?
+
+There's more to this than just idle curiosity. Knowing how prices are derived can really help you pick your investments. For exmaple: are you really impressed with that new token that was loaded with an intial pair valued at $10 that when x100 on the first day? You maybe shouldn't be. . . but that's a topic for our very next 'Staying SAFU', so stay tuned for that!
