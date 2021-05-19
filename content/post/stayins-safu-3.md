@@ -54,8 +54,10 @@ Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token. For to
 
 We've built our own AMM model here at BitDiamond so we can model what happens to these imaginary tokens when sales come in. Let's image they both experience 10 buys of $200 each in the first few hours. 
 
-Because token A had a very low initial liquidity value these 10 buys of $200 have doubled the $ value of the liquidity pool to $4,000. And that has had a big % price impact - token A is up 143% on token price and has an MCAP of $7,600. Wow, looks like huge growth. Token B has also had it's liquidity pool grow by $2,000, so it's now $42,000. And it's unit price increase. Just 9.3%. It's MCAP is now $43,890. 
+Because token A had a very low initial liquidity value these 10 buys of $200 have doubled the $ value of the liquidity pool to $4,000. And that has had a big % price impact - token A is up 143% on token price and has an MCAP of $7,600. Wow, looks like huge growth! Token B has also had it's liquidity pool grow by $2,000, so it's now $42,000. And it's unit price increase? Just 9.3%. It's MCAP is now $43,890. 
 
-The MCAP of token B has gone up $3,890. The MCAP of token A has gone up by $5,600. Token A looks a LOT more attractive, right?!
+The MCAP of token B has gone up $3,890. The MCAP of token A has gone up by $5,600. Token A looks a LOT more attractive, right?! That isn't the case. What you are seeing is a huge **percentage** impact on a very low starting valuation. This is why you see lots of tokens with tiny initial liquidity values and quadrillions of tokens in total supply. Both token A and B have the same sales, and have gone up the same in liquidity terms. It looks like token A is pumping, but I would say token B is the MUCH better buy.
+
+To illustrate this let's look at what happens when someone SELLS. Let's put the 11th trade for each as a $500 sale.
 
 Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
