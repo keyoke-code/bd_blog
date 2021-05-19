@@ -8,7 +8,7 @@ hero: "/images/safu-2.png"
 draft: true
 
 ---
-In today's 'Staying SAFU' we're going to dive a little bit more into liquidity. (Get it, _dive_ in. To **liquidity** :p).
+In today's 'Staying SAFU' we're going to dive a little bit more into liquidity. (Get it, _dive_ in. To **liquidity** :p). This is quite a big one, settle back and ignore the market :).
 
 There's FOUR things I want to cover off in this issue, the first one is particularly topical given recent market events.
 
@@ -44,12 +44,12 @@ You should care because it can tell you a number of things, and help you to eval
 
 It's important to know the value of the liquidity pool at launch. A lot of tokens are loading very low values of initial liquidity. Why this matters is best expressed with two examples.
 
-Token A and Token B both have a total supply of 100M. They both added 95M tokens to the liquidity pool on launch, and they both paired with BUSD. 
+Token A and Token B both have a total supply of 100M. To make the math easier let's say they loaded all 100M tokens to the liquidity pool on launch, and they both paired with BUSD. 
 
 Token A paired their tokens with 2,000 BUSD. Token B paired with 40,000 BUSD.
 
-Token A has a starting unit price of 2,000 / 95,000,000. So $0.00002 per token. That's a total diluted MCAP of 
+Token A has a starting unit price of 2,000 / 95,000,000. So $0.00002 per token. That's a total diluted MCAP of $2,000. 
 
-Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token.
+Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token. For token B the MCAP is therefore $40,000.
 
 Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
