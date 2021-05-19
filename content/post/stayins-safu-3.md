@@ -8,3 +8,20 @@ hero: "/images/safu-2.png"
 draft: true
 
 ---
+In today's 'Staying SAFU' we're going to dive a little bit more into liquidity. (Get it, _dive_ in. To **liquidity** :p).
+
+There's three things I want to cover off in this issue, the first one is particularly topical given recent market events.
+
+1) Looking at the main liquidity pair for a token and deciding how that fits with your risk profile. 
+
+2) Checking out the value of the initial liquidity load, and understanding what that means for price dymanics.
+
+3) Considering looking at the mcap to liquidity ratio.
+
+## The main liquidity pair. Does it matter?
+
+We think it does. What a lot of people don't realise is that when you buy a token you are taking a long position in both that token AND it's liquidity pairs. 
+
+Now, I am sure there are crypto maximalists out there who never think in $ terms. They view their wealth as how many BTC, or ETH, or BNB they have. But for most of us we still think in fiat currency terms. We want to see what our holding is worth in something like USD. Hence that's what the charts show. Now, lets say your token has one liquidity pair on pancakeswap and the other token in that pair is BNB. What that pool says is that a certain amount of your new token can be swapped for a certain amount of BNB. Not $, BNB. Lets say you have 1,000 tokens and they are worth 1 BNB.
+
+So what happens if the price of BNB changes? Let's say no one buys anything, no one sells anything, but BNB tanks by 25%. Your token can still be traded in the pool for 
