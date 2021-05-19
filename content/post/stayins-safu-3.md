@@ -24,4 +24,8 @@ We think it does. What a lot of people don't realise is that when you buy a toke
 
 Now, I am sure there are crypto maximalists out there who never think in $ terms. They view their wealth as how many BTC, or ETH, or BNB they have. But for most of us we still think in fiat currency terms. We want to see what our holding is worth in something like USD. Hence that's what the charts show. Now, lets say your token has one liquidity pair on pancakeswap and the other token in that pair is BNB. What that pool says is that a certain amount of your new token can be swapped for a certain amount of BNB. Not $, BNB. Lets say you have 1,000 tokens and they are worth 1 BNB.
 
-So what happens if the price of BNB changes? Let's say no one buys anything, no one sells anything, but BNB tanks by 25%. Your token can still be traded in the pool for 
+So what happens if the price of BNB changes? Let's say no one buys the token you hold, no one sells it, but BNB tanks by 45%. Your token can still be traded in the pool for 1 BNB. That hasn't changed. But if 1 BNB was worth $650 before the drop, and is now worth $360. The tokens that you hold now have a $ value of $360. In $ terms you are down 45%, just like BNB.
+
+To reiterate the point at the start of this section, when you buy a token you are taking a long position in that token and also it's pair. This is particularly important if there are not many pairs, even more so if there is just one pair available.
+
+With this in mind we loaded 97% of BitDiamond in a pair with a **stablecoin**, BUSD.  
