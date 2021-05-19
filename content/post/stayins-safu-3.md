@@ -29,3 +29,7 @@ So what happens if the price of BNB changes? Let's say no one buys the token you
 To reiterate the point at the start of this section, when you buy a token you are taking a long position in that token and also it's pair. This is particularly important if there are not many pairs, even more so if there is just one pair available.
 
 With this in mind we loaded 97% of BitDiamond in a pair with a **stablecoin**, BUSD. Our $ price hasn't been affected by the recent pullbacks across the market, as our pair is still pegged to the $. That's not to say we haven't seen volatility, but at least we know the underlying basis for our token isn't shifting beneath our feet.
+
+Initial Liquidity Load. Why should I care?
+
+You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch.
