@@ -32,12 +32,14 @@ With this in mind we loaded 97% of BitDiamond in a pair with a **stablecoin**, B
 
 So how do you check this information? Go to [https://bscscan.com/](https://bscscan.com/ "https://bscscan.com/") and enter your token contract hash. Always use that, not the name, there are almost always clones of any token. You should be able to get the address from the dev team. They should have a website, or a telegram group, with all this information front and centre.
 
-Once you are here, click on the 'Holders' list and look for the pancakeswap pool or pools. These will have little contract icons. Click on one of these, and in the next screen click on the address under 'Filtered by Token Holder' (about half way down the right hand side). You are now viewing what the liquidity pool holds. Cool, right!? Click on the little square shaped icon next to the drop down that says 'Token' (third item on the left hand side).
+Once you are here, click on the 'Holders' list and look for the pancakeswap pool or pools. These will have little contract icons. Click on one of these, and in the next screen click on the address under 'Filtered by Token Holder' (about half way down the right hand side). You are now viewing what the liquidity pool holds. Cool, right!? Click on the drop down that says 'Token' (third item on the left hand side).
 
-You can now see what tokens are in the pool! So what is your token paired with? Are you happy going long on this?
+You can now see what tokens are in the pool! So what is your token paired with? Are you happy going long on this token?
 
 ## Initial Liquidity Load. Why should I care?
 
-You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch. This is a little but more involved than some of our other tips, but it's worth learning. Here's what to look for.
+You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch. This is a little but more involved than some of our other tips, but it's worth learning. 
 
-Check on BSCScan
+It's important to know the value of the liquidity pool at launch. A lot of tokens are loading very low values of initial liquidity. Why this matters is best expressed with two examples.
+
+Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
