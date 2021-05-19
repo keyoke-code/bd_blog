@@ -60,6 +60,34 @@ The MCAP of token B has gone up $3,890. The MCAP of token A has gone up by $5,60
 
 To illustrate this let's look at what happens when someone SELLS. Let's put the 11th trade for each as a $500 sale.
 
-For token B, with good liquidity, we see a price drop of 0.71%. Not a disaster. For token A the drop is 11.11%! So while in percentage terms it
+For token B, with good liquidity, we see a price drop of 0.71%. Not a disaster. For token A the drop is 11.11%! 
 
-Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
+The numbers can get confusing, but if you want one take away from this section it's the following. It's possible to setup a token such that it will moon very very easily. It looks great, huge green candle. Much wow. Everyone piles in. But that token can (and indeed probably will) crash hard! This is token A in our example. Token B will grow steadily, and when bad times come it will keep taking punches in the face like a champ, and not drop like a rock! This is why we loaded BitDiamond with $40k of liquidity on day one.
+
+Want to see what the initial liquidity load was? Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20 Token Transactions and hit view all. Go to 'last' and look for the liquidity load transaction. Ideally this will be the first thing you see, and you can check out how much it was.
+
+## MCAP to Liquidity Ratio
+
+Want an easier way to see how SAFU the token is going to be in terms of huge price movements? Calculate the MCAP to liquidity ratio. The longer a token has been around this will or course diverge a lot, but it's not a bad number to know.
+
+Remember, liquidity is what's available for token holders to sell in and out of. MCAP is the total supply multiplied by the most recent trade price.
+
+To work out this ratio just take total liquidity and divide by MCAP. Bogged.finance charts are a great place to see this easily (e.g. [https://charts.bogged.finance/?token=0x669288ADA63ed65Eb3770f1c9eeB8956deDAaa47](https://charts.bogged.finance/?token=0x669288ADA63ed65Eb3770f1c9eeB8956deDAaa47 "https://charts.bogged.finance/?token=0x669288ADA63ed65Eb3770f1c9eeB8956deDAaa47")). For BitDiamond this gives us a current ratio of 0.79. For safemoon it's 0.07. Every $ in BitDiamond's MCAP is backed in liquidity terms by over ten times as much $ as safemoon.
+
+Now, these two tokens are in entirely different stages of their lifecycle. But try this ratio on your next low MCAP pick and see what you think.
+
+## Checking the total supply in liquidity
+
+We'll finish on an easy one. How much of the supply was added to liquidity? It HAS to be almost all of it.
+
+Want to setup a token with a $1bn fully diluted MCAP? Do the following:
+
+Create a token with 1bn supply
+
+Pair ONE of those tokens with ONE dollar in the liquidity pool.
+
+The unit price is 1 token = $1. The fully diluted market cap is therefore $1 x 1bn. So $1,000,000,000.
+
+Is this token's total supply worth that. Of course not. If the dev team hasn't loaded almost all the token into liquidity you need to ask why. 
+
+Until next time, stay SAFU!
