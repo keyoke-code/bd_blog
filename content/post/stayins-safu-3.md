@@ -52,6 +52,10 @@ Token A has a starting unit price of 2,000 / 95,000,000. So $0.00002 per token. 
 
 Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token. For token B the MCAP is therefore $40,000.
 
-We've built our own AMM model here at BitDiamond so we can model what happens to these imaginary tokens when sales come in. Let's image they both experience 10 buys of $200 each in the first few hours. This is what happens to the key metrics:
+We've built our own AMM model here at BitDiamond so we can model what happens to these imaginary tokens when sales come in. Let's image they both experience 10 buys of $200 each in the first few hours. 
+
+Because token A had a very low initial liquidity value these 10 buys of $200 have doubled the $ value of the liquidity pool to $4,000. And that has had a big % price impact - token A is up 143% on token price and has an MCAP of $7,600. Wow, looks like huge growth. Token B has also had it's liquidity pool grow by $2,000, so it's now $42,000. And it's unit price increase. Just 9.3%. It's MCAP is now $43,890. 
+
+The MCAP of token B has gone up $3,890. The MCAP of token A has gone up by $5,600. Token A looks a LOT more attractive, right?!
 
 Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
