@@ -60,4 +60,6 @@ The MCAP of token B has gone up $3,890. The MCAP of token A has gone up by $5,60
 
 To illustrate this let's look at what happens when someone SELLS. Let's put the 11th trade for each as a $500 sale.
 
+For token B, with good liquidity, we see a price drop of 0.71%. Not a disaster. For token A the drop is 11.11%! So while in percentage terms it
+
 Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
