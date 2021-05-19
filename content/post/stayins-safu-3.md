@@ -10,13 +10,15 @@ draft: true
 ---
 In today's 'Staying SAFU' we're going to dive a little bit more into liquidity. (Get it, _dive_ in. To **liquidity** :p).
 
-There's three things I want to cover off in this issue, the first one is particularly topical given recent market events.
+There's FOUR things I want to cover off in this issue, the first one is particularly topical given recent market events.
 
 1) Looking at the main liquidity pair for a token and deciding how that fits with your risk profile. 
 
 2) Checking out the value of the initial liquidity load, and understanding what that means for price dymanics.
 
 3) Considering looking at the mcap to liquidity ratio.
+
+4) Checking how much of the total supply in in liquidity.
 
 ## The main liquidity pair. Does it matter?
 
@@ -41,5 +43,13 @@ You can now see what tokens are in the pool! So what is your token paired with? 
 You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch. This is a little but more involved than some of our other tips, but it's worth learning. 
 
 It's important to know the value of the liquidity pool at launch. A lot of tokens are loading very low values of initial liquidity. Why this matters is best expressed with two examples.
+
+Token A and Token B both have a total supply of 100M. They both added 95M tokens to the liquidity pool on launch, and they both paired with BUSD. 
+
+Token A paired their tokens with 2,000 BUSD. Token B paired with 40,000 BUSD.
+
+Token A has a starting unit price of 2,000 / 95,000,000. So $0.00002 per token. That's a total diluted MCAP of 
+
+Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token.
 
 Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20
