@@ -42,7 +42,7 @@ You can now see what tokens are in the pool! So what is your token paired with? 
 
 ## Initial Liquidity Load. Why should I care?
 
-You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch. This is a little but more involved than some of our other tips, but it's worth learning. 
+You should care because it can tell you a number of things, and help you to evaluate what's happened to the token since launch. This is a little but more involved than some of our other tips, but it's worth learning.  
 
 It's important to know the value of the liquidity pool at launch. A lot of tokens are loading very low values of initial liquidity. Why this matters is best expressed with two examples.
 
