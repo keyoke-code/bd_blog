@@ -50,9 +50,11 @@ Token A and Token B both have a total supply of 100M. To make the math easier le
 
 Token A paired their tokens with 2,000 BUSD. Token B paired with 40,000 BUSD.
 
-Token A has a starting unit price of 2,000 / 95,000,000. So $0.00002 per token. That's a total diluted MCAP of $2,000. 
+Token A has a starting unit price of 2,000 / 100,000,000. So $0.00002 per token. That's a total diluted MCAP of $2,000. 
 
-Token B has a starting price of 40,000 / 95,000,000. So $0.004 per token. For token B the MCAP is therefore $40,000.
+Token B has a starting price of 40,000 / 100,000,000. So $0.004 per token. For token B the MCAP is therefore $40,000.
+
+Makes sense so far.
 
 We've built our own AMM model here at BitDiamond so we can model what happens to these imaginary tokens when sales come in. Let's image they both experience 10 buys of $200 each in the first few hours. 
 
@@ -66,7 +68,7 @@ For token B, with good liquidity, we see a price drop of 0.71%. Not a disaster. 
 
 The numbers can get confusing, but if you want one take away from this section it's the following. It's possible to setup a token such that it will moon very very easily. It looks great, huge green candle. Much wow. Everyone piles in. But that token can (and indeed probably will) crash hard! This is token A in our example. Token B will grow steadily, and when bad times come it will keep taking punches in the face like a champ, and not drop like a rock! This is why we loaded BitDiamond with $40k of liquidity on day one.
 
-Want to see what the initial liquidity load was? Are you still looking at the liquidity pool? If not, follow the instructions on how to get here from the section above. Now, click Bep-20 Token Transactions and hit view all. Go to 'last' and look for the liquidity load transaction. Ideally this will be the first thing you see, and you can check out how much it was.
+Want to see what the initial liquidity load was? Are you still looking at the liquidity pool in BSCscan from the above section? If not, follow the instructions on how to get here from the section above. Now, click Bep-20 Token Transactions and hit view all. Go to 'last' and look for the liquidity load transaction. Ideally this will be the first thing you see, and you can check out how much it was.
 
 ## MCAP to Liquidity Ratio
 
@@ -90,6 +92,6 @@ Pair ONE of those tokens with ONE dollar in the liquidity pool.
 
 The unit price is 1 token = $1. The fully diluted market cap is therefore $1 x 1bn. So $1,000,000,000.
 
-Is this token's total supply worth that. Of course not. If the dev team hasn't loaded almost all the token into liquidity you need to ask why. 
+Is this token's total supply worth that? Of course not. If the dev team hasn't loaded almost all the token into liquidity you need to ask why. 
 
 Until next time, stay SAFU!
