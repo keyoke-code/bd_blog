@@ -5,7 +5,6 @@ title: 'Stayins SAFU #3'
 excerpt: Wow, that token just went 10x!? But does that look like good liquidity?
 date: 2021-04-19T12:00:00+00:00
 hero: "/images/safu-2.png"
-draft: true
 
 ---
 In today's 'Staying SAFU' we're going to dive a little bit more into liquidity. (Get it, _dive_ in. To **liquidity**.). This is quite a big one. Settle back and ignore the market!
