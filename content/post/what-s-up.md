@@ -17,17 +17,17 @@ We hadn't checked in on them in a while. Things got busy. But when we did we rea
 
 There are lots of quotes out there on principles. I quite like the above one. So what are **our** princples:
 
-1) To be the **safest** token we could possibly be.
+* To be the **safest** token we could possibly be.
 
 This told us where to start. We would need a great audit so we were sure there were no mistakes or exploits hiding in our code. It means we needed to put as much USD in liquidity as we could afford. It meant we needed to load as many BTDMD into liquidity as we could. It means we won't engage in any marketing that might see an unsustainable surge in price (resulting in a later crash). It means we pick our strategic partners carefully. We remember this one every day.
 
-2) To always put **holders** first.
+* To always put **holders** first.
 
 This seems obvious but not all tokens operate this way. Essentially, this means we will never pursue new holders at the expense of **existing** holders. Never. That can be applied in straightforward ways, for example not airdropping the token. That's giving away something that someone has already paid something for. That's not fair. It can also relate to how we spend our team funds. Marketing or roadmap? A new youtube partnership or a smart contract audit? Sometimes a course of action is obviously good for everyone. But if there is any doubt, existing holders come first.
 
-3) To be the most **transparent** crypto in the world.
+* To be the most **transparent** crypto in the world.
 
-We do pretty well here I think, but this is the one that we realised needed some work. Part of meeting this one is our blog. Our 'Staying SAFU' and 'Cryptobits' articles are trying to give something back and also be transparent with our community. Another part is our roadmap where we set out our goals. But I reckon we can do more here in terms of letting people know exactly what the team is working on. 
+We do pretty well here I think, but this is the one that we realised needed some work. Part of meeting this one is our blog. Our 'Staying SAFU' and 'Cryptobits' articles are trying to give something back and also be transparent with our community. Another part is our roadmap where we set out our goals. But I reckon we can do more here in terms of letting people know exactly what the team is working on.
 
 So here goes!
 
