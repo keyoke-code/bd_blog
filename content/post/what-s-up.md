@@ -5,7 +5,6 @@ title: What's up?
 excerpt: The latest from BitDiamond
 date: 2021-05-22T12:00:00+00:00
 hero: "/images/work.png"
-draft: true
 
 ---
 When we started BitDiamond we wrote down our principles. Nothing flashy, just some things we could check back on when things got tough. Or indeed when things went well! Crypto is high adrenaline, there are lots of distractions, lots of people think they know what should come next. Maybe they do. But if you don't have a really clear idea of your OWN principles you can end up chasing every shiny thing you see... So, we wanted to be clear on our ours from the beginning. We came up with a lot, but boiled them down to just three.
