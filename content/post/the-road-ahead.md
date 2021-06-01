@@ -35,3 +35,5 @@ So we are now moving into phase 2. What does that mean?
 Phase 2 is all about building the infrastructure that will surround our core token and provide that utility and value. This phase is where BitDiamond transforms for a store of value with good tokenomics to a store of value with good tokenomics AND a utility token with real world use cases and the ability to generate positive cash flows. It's the cornerstone of a project, an ecosystem if you will. Not an end goal in itself. This phase is where we work through out plans to turn BitDiamond into a token with an MCAP in the 100s of millions. But to do that we've got work ahead of us!
 
 Being humble people we've called our phase 2 plan the BitDimaond Universe. Here's how it looks:
+
+![](/images/platform.png)
