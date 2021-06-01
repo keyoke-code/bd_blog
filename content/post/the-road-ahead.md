@@ -34,8 +34,18 @@ So we are now moving into phase 2. What does that mean?
 
 Phase 2 is all about building the infrastructure that will surround our core token and provide that utility and value. This phase is where BitDiamond transforms for a store of value with good tokenomics to a store of value with good tokenomics AND a utility token with real world use cases and the ability to generate positive cash flows. It's the cornerstone of a project, an ecosystem if you will. Not an end goal in itself. This phase is where we work through out plans to turn BitDiamond into a token with an MCAP in the 100s of millions. But to do that we've got work ahead of us!
 
-Being humble people we've called our phase 2 plan the BitDimaond Universe. Here's how it looks:
+Being humble people, we've called our phase 2 plan the 'BitDimaond Universe'. Here's how it looks:
 
 ![](/images/platform-1.png)
 
 For a larger version [see here](https://www.btdmd.com/platform.png).
+
+To summarise it, we have a suite of dapps and tokens in development that we will release incrementally over the coming weeks and months. These will offer our holders utility. 
+
+Focussing on the items that are nearing completion we have:
+
+The Gallery. This will enable users to view their NFTs and also mint there own. We will not charge ANYTHING for minting, so it will just cost you the gas. 
+
+Ranking NFTs. We have a community ranking system with seven NFTs
+
+In the first instance we plan to offer all dapps for free.
