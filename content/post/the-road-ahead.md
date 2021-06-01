@@ -18,7 +18,7 @@ When we launched we published a roadmap. This was always a short-term roadmap, i
 
 ![](/images/roadmap-on-black-2021-05-28.svg)
 
-So we are getting to the end of 'Phase 1'. But what is phase 1?
+So we are getting to the end of 'Phase 1'. But what is phase 2?
 
 ## Three Phases
 
@@ -32,9 +32,9 @@ So we are now moving into phase 2. What does that mean?
 
 ## Phase 2
 
-Phase 2 is all about building the infrastructure that will surround our core token and provide that utility and value. This phase is where BitDiamond transforms for a store of value with good tokenomics to a store of value with good tokenomics AND a utility token with real world use cases and the ability to generate positive cash flows. It's the cornerstone of a project, an ecosystem if you will. Not an end goal in itself. This phase is where we work through out plans to turn BitDiamond into a token with an MCAP in the 100s of millions. But to do that we've got work ahead of us!
+Phase 2 is all about building the infrastructure that will surround our core token and provide that utility and value. This phase is where BitDiamond transforms for a store of value with good tokenomics to a store of value with good tokenomics AND a utility token with real world use cases and the ability to generate positive cash flows. It's the cornerstone of a project, an ecosystem if you will. Not an end goal in itself. This phase is where we work through our plans to turn BitDiamond into a token with an MCAP in the 100s of millions. But to do that we've got work ahead of us!
 
-Being humble people, we've called our phase 2 plan the 'BitDimaond Universe'. Here's how it looks:
+Being humble people, we've called our phase 2 plan the 'BitDiamond Universe'. Here's how it looks:
 
 ![](/images/platform-1.png)
 
@@ -44,8 +44,15 @@ To summarise it, we have a suite of dapps and tokens in development that we will
 
 Focussing on the items that are nearing completion we have:
 
-The Gallery. This will enable users to view their NFTs and also mint there own. We will not charge ANYTHING for minting, so it will just cost you the gas. 
+* The Gallery. This will enable users to view their NFTs and also mint their own. We will not charge ANYTHING for minting, so it will just cost you the gas. 
+* Ranking NFTs. We have a community ranking system with seven NFTs, each one with its own distinctive artwork. We plan to be awarding these soon and will do a full blog post on just this topic.
 
-Ranking NFTs. We have a community ranking system with seven NFTs, each one with it's own distinctive artwork. We plan to be awarding these soon and will do a full blog post on just this topic.
+In the first instance we plan to offer all dapps for free, no strings attached. But as we roll out more functionality we will put a requirement in to hold BitDiamond in your wallet to use the app. And here we start to add the utility. Let's say we keep minting totally free, but to enjoy free minting you need to hold 3,000 BitDiamond in your wallet. Not that it would cost anything, just that the app would need to see that balance in order to offer free minting. We now have a utility token, and potentially hundreds of people holding a balance to make use of our dapps. And of course, benefitting from our non-custodial staking yield at the same time.
 
-In the first instance we plan to offer all dapps for free, no strings attached. But as we roll out more functionality we will put a requirement in to hold BitDiamond in your wallet to use the app. And here we start to add the utility. Let's say we keep minting totally free, but to enjoy free minting 
+As we build out more and more of the BitDiamond Universe our aim is to give people more and more reason to hold, as having BitDiamond on your wallet offers you all these benefits. More holding = reduced circulating supply = increased price.
+
+So that's phase 2, and the additional of genuine utility to our token.
+
+## Other Items in the universe
+
+We won't go into any of the other items today, and we'll be relatively cautious about revealing too much before development items are in testing. In the meantime, stay tuned!
