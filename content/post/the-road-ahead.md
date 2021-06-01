@@ -40,7 +40,7 @@ Being humble people, we've called our phase 2 plan the 'BitDiamond Universe'. He
 
 For a larger version [see here](https://www.btdmd.com/platform.png).
 
-To summarise it, we have a suite of dapps and tokens in development that we will release incrementally over the coming weeks and months. These will offer our holders utility. 
+To summarise, we have a suite of dapps and tokens in development that we will release incrementally over the coming weeks and months. These will offer our holders utility. 
 
 Focussing on the items that are nearing completion we have:
 
