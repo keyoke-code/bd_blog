@@ -46,6 +46,6 @@ Focussing on the items that are nearing completion we have:
 
 The Gallery. This will enable users to view their NFTs and also mint there own. We will not charge ANYTHING for minting, so it will just cost you the gas. 
 
-Ranking NFTs. We have a community ranking system with seven NFTs
+Ranking NFTs. We have a community ranking system with seven NFTs, each one with it's own distinctive artwork. We plan to be awarding these soon and will do a full blog post on just this topic.
 
-In the first instance we plan to offer all dapps for free.
+In the first instance we plan to offer all dapps for free, no strings attached. But as we roll out more functionality we will put a requirement in to hold BitDiamond in your wallet to use the app. And here we start to add the utility. Let's say we keep minting totally free, but to enjoy free minting 
