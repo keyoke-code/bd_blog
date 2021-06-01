@@ -7,7 +7,6 @@ excerpt: BitDiamond has been live for a month! And what a month it's been. We've
   step inside and find out. . .
 date: 2021-05-31T12:00:00+00:00
 hero: "/images/roadahead.png"
-draft: true
 
 ---
 We've been live for a month. Well, nearly. I had planned to write a retrospective piece covering the last month but that can wait. I want to talk about the future!
