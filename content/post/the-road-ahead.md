@@ -20,12 +20,16 @@ When we launched we published a roadmap. This was always a short-term roadmap, i
 
 So we are getting to the end of 'Phase 1'. But what is phase 1?
 
-## Phases
+## Three Phases
 
 We've planned out three phases for BitDiamond:
 
-Phase 1: Establish. Get the token live and out to holders.
+* Phase 1: Establish. Get the token live and out to holders.
+* Phase 2: Differentiate. There are lots of tokens out there, and more launching every week. Pretty much all of them have some tokenomics that offer appeal. What relatively few have is a project that surrounds the token and the offer of utility. This is about adding value.
+* Phase 3: Capitalize. If we have done our job right in phase 2 this is where we can capitalize on that effort and see our price rise to match our value.
 
-Phase 2: Differentiate. There are lots of tokens out there, and more launching every week. Pretty much all of them have some tokenomics that offer appeal. What relatively few have is a project that surrounds the token and the offer of utility.
+So we are now moving into phase 2. What does that mean?
 
-Phase 3: Capitalise.
+## Phase 2
+
+Phase 2 is all about building the infrastructure that will surround our core token and provide that utility and value. This phase is where BitDiamond transforms for a store of value with good tokenomics to a store of value with good tokenomics AND a utility token with real world use cases and the ability to generate positive cash flows. It's the cornerstone of a project, an ecosystem if you will. Not an end goal in itself. This phase is where we start 
