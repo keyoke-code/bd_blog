@@ -49,7 +49,7 @@ Focussing on the items that are nearing completion we have:
 
 In the first instance we plan to offer all dapps for free, no strings attached. But as we roll out more functionality we will put a requirement in to hold BitDiamond in your wallet to use the app. And here we start to add the utility. Let's say we keep minting totally free, but to enjoy free minting you need to hold 3,000 BitDiamond in your wallet. Not that it would cost anything, just that the app would need to see that balance in order to offer free minting. We now have a utility token, and potentially hundreds or thousands of people holding a balance to make use of our dapps. And of course, benefitting from our non-custodial staking yield at the same time.
 
-As we build out more and more of the BitDiamond Universe our aim is to give people more and more reason to hold, as having BitDiamond on your wallet offers you all these benefits. More holding = reduced circulating supply = increased price.
+As we build out more and more of the BitDiamond Universe our aim is to give people more and more reason to hold, as having BitDiamond on your wallet offers you benefits. More holding = reduced circulating supply = increased price.
 
 So that's phase 2, and the additional of genuine utility to our token.
 
