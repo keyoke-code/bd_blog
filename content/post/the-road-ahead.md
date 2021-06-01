@@ -36,4 +36,4 @@ Phase 2 is all about building the infrastructure that will surround our core tok
 
 Being humble people we've called our phase 2 plan the BitDimaond Universe. Here's how it looks:
 
-![](/images/platform.png)
+![](/images/platform-1.png)
