@@ -5,7 +5,6 @@ title: The Universe is Coming. . .
 excerpt: We've been busy! This build has been epic!!
 date: 2021-06-26T12:00:00+00:00
 hero: "/images/uni.jpg"
-draft: true
 
 ---
 Dear neglected blog,
