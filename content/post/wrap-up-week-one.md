@@ -5,7 +5,8 @@ title: 'Wrap up - Week One '
 excerpt: A wrap up of BitDiamond news for the week. The first one!
 date: 2021-05-07T21:00:00+00:00
 hero: "/images/weekone.png"
-tags: []
+tags:
+- updates
 
 ---
 Every week we'll wrap up the latest news and developments in BitDiamond, and also look ahead to what's happening in the coming week and further into the future.
