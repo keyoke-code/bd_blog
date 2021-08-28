@@ -40,6 +40,11 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: Tags for this post
 pages:
 - content/post/cryptobits-1-how-does-pancakeswap-work.md
 - content/post/price-update-11-may-2021.md
