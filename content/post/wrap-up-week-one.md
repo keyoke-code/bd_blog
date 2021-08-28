@@ -1,7 +1,7 @@
 ---
 timeToRead: 3
 authors: []
-title: Wrap up - Week One
+title: 'Wrap up - Week One '
 excerpt: A wrap up of BitDiamond news for the week. The first one!
 date: 2021-05-07T21:00:00+00:00
 hero: "/images/weekone.png"
